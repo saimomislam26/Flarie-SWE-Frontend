@@ -1,7 +1,7 @@
 export const gameConfig = {
   container: {
-    maxHeight: 640,
-    maxWidth: 360,
+    maxHeight: 600,
+    maxWidth: 300,
     borderRadius: 24,
   },
   campaignBanner: {
